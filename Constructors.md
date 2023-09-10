@@ -1,29 +1,29 @@
-Student:
+1) Student:
 Student alice = new Student("Alice", 18);
 
-Book:
+2) Book:
 Book greatGatsby = new Book("The Great Gatsby", "F. Scott Fitzgerald", 250);
 
-Circle:
+3) Circle:
 Circle circleInstance = new Circle(5.5);
 
-Car:
+4) Car:
 Car camry2022 = new Car("Toyota", "Camry", 2022);
 
-Employee:
+5) Employee:
 Employee johnSmith = new Employee("John Smith", 12345);
 
-Song:
+6) Song:
 Song shapeOfYou = new Song("Shape of You", "Ed Sheeran", 235);
 
-Rectangle:
+7) Rectangle:
 Rectangle rectangleInstance = new Rectangle(10.0, 7.5);
 
-BankAccount:
+8) BankAccount:
 BankAccount yourAccount = new BankAccount("Your Name", 0.0);
 
-Computer:
+9) Computer:
 Computer dellComputer = new Computer("Dell", "ModelName (if available)", 1299.99);
 
-Person:
+10) Person:
 Person jessicaPearson = new Person("Jessica", "Pearson", 23);
